@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=135
+objectbench.width=461
+package.divider.horizontal=0.6
+package.divider.vertical=0.66270783847981
+package.editor.height=272
+package.editor.width=674
+package.editor.x=100
+package.editor.y=221
+package.frame.height=479
+package.frame.width=800
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=62
+target1.name=librerias
+target1.type=PackageTarget
+target1.width=80
+target1.x=160
+target1.y=10
