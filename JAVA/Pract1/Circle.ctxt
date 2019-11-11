@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\n\ class\ Circle.\n\ \n\ @author\ LTP\ \n\ @version\ 2018-19\n
+comment1.params=x\ y\ r
+comment1.target=Circle(double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ perimeter()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6
