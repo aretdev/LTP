@@ -1,2 +1,2 @@
 ### Info
-Completa
+Completa, ejercicios de ampliación incluidos.
